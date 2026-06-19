@@ -772,7 +772,7 @@ const AdminLogin = ({ onLogin, onClose }) => {
           }}>Ingresar</button>
         </div>
         <div style={{ marginTop: 16, textAlign: "center", fontSize: 11, color: "#555", fontFamily: "'Nunito', sans-serif" }}>
-          Demo: contraseña es "mision2025"
+          PAGINA SOLO PARA LOS ADMINISTRADORES
         </div>
       </div>
     </div>
